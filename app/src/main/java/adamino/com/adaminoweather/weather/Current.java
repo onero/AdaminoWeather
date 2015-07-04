@@ -1,13 +1,15 @@
-package adamino.com.adaminoweather;
+package adamino.com.adaminoweather.weather;
 
 import java.text.SimpleDateFormat;
 import java.util.Date;
 import java.util.TimeZone;
 
+import adamino.com.adaminoweather.R;
+
 /**
  * Created by Adam on 27-06-2015.
  */
-public class CurrentWeather {
+public class Current {
     private String mIcon;
     private long mTime;
     private double mTemperature;

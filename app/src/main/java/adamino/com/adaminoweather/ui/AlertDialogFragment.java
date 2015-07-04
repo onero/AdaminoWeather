@@ -1,10 +1,12 @@
-package adamino.com.adaminoweather;
+package adamino.com.adaminoweather.ui;
 
 import android.app.AlertDialog;
 import android.app.Dialog;
 import android.app.DialogFragment;
 import android.content.Context;
 import android.os.Bundle;
+
+import adamino.com.adaminoweather.R;
 
 /**
  * Created by Adam on 27-06-2015.
